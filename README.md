@@ -1,4 +1,3 @@
-# cv
 # My CV  
 
 This is my **CV project**, created using only **HTML**. The project contains multiple files, including an image folder, the main index page, a hobbies page, and a contact page.  
